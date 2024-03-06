@@ -11,8 +11,6 @@ import women_banner from './Components/Assets/banner_women.png';
 import kid_banner from './Components/Assets/banner_kids.png';
 
 function App() {
-
-
   return (
     <>
       <BrowserRouter>
